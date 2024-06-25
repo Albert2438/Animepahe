@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(255, 0, 34);
+    float: left;
+}
+#p1{
+    border: 2px solid black;
+    background-color: rgb(255, 0, 34);
+    padding: 15px;
+    color: white;
+}
+.p0{
+    background-color: rgb(255, 0, 34);
+}
+#latest{
+    display: inline;
+    color: white;
+    font-size: 50px;
+    background-color: black;
+}
+#p3{
+    color: white;
+    margin-left: 1250px; 
+}
+select{
+    color: white;
+    margin-left: 1250px;
+    background-color: rgb(255, 0, 34); 
+}
+img{
+    margin-left: 1250px;
+}
+.a{
+    color: white;
+}
+.a2{
+    color: white;
+}
