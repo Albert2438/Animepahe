@@ -22,7 +22,7 @@ tabs.addEventListener('blur',() =>{
 // })
 search.addEventListener ('keypress',(event)=>{
     if(event.key ==='Enter'){
-        window.location.href=Anime.html;
+        window.location.href= "Anime.html";
     }
 })
 
