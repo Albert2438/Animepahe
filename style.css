@@ -1,5 +1,6 @@
 body{
-    background-color: black;
+    background-color: black!important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 a{
     text-decoration: none;
